@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+
+
+    <string name="search_by_username">Search by username</string>
+    <string name="no_data_found">No data</string>
+    <string name="someting_wents_wrong">Someting went\'s wrong from Github API!.</string>
+    <string name="_0">0</string>
+    <string name="followings">Followings</string>
+    <string name="followers">Followers</string>
+    <string name="git">git</string>
+    <string name="parth">Parth</string>
+
+
+</resources>

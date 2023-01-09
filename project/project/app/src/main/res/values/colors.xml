@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="primary">#E850F8</color>-->
+    <color name="primary">#888787</color>
+    <color name="secondary">#8F42F6</color>
+
+    <color name="light_purple">#BA48F7</color>
+    <color name="black">#FF000000</color>
+    <color name="black_trans">#00000000</color>
+    <color name="black20">#4D000000</color>
+    <color name="light">#4DE4DEDE</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#B3B3B3</color>
+    <color name="light_gray">#F4F4F4</color>
+    <color name="grayb5">#B5B5B5</color>
+        <color name="light_pink">#FEF4FF</color>
+    <color name="light_pink_30">#80FEF4FF</color>
+    <color name="green">#5ac53b</color>
+    <color name="green_14FF00">#14FF00</color>
+    <color name="red">#FF0000</color>
+    <color name="gray8">#BDBDBD</color>
+    <color name="default_text_color">#808080</color>
+    <color name="black_A6A6A6">#A6A6A6</color>
+
+    <color name="gray6">#DADADA</color>
+
+    <color name="default_color">#3F51B5</color>
+    <color name="gray_bold">#919191</color>
+
+    <color name="primary_text_color">#2f333c</color>
+    <color name="success">#47d764</color>
+    <color name="warning">#ffc021</color>
+    <color name="error">#EF5954</color>
+    <color name="info">#2f86eb</color>
+    <color name="text_color">#C44AF7</color>
+
+    <color name="one_payu_colorPrimary">@color/primary</color>
+    <color name="one_payu_colorPrimaryDark">@color/primary</color>
+    <color name="one_payu_colorAccent">@color/primary</color>
+    <color name="one_payu_baseTextColor">#ffffff</color> //Text color of header text and button text
+</resources>
